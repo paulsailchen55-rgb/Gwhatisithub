@@ -35,12 +35,75 @@ There is no single universally established name for this exact practice. Useful 
 - **Cross-repository identity linking**
 - **Public knowledge-portfolio architecture**
 - **Organic search discoverability**
+- **Independent searchability verification**
+- **Human-in-the-loop search verification**
+- **Search presence monitoring**
 
 The most straightforward working label for this project is:
 
 **Name-Based Public Archive Discoverability**
 
-This describes the goal without claiming that search-engine placement is guaranteed.
+The verification component can be called:
+
+**Independent Human Searchability Verification**
+
+These labels describe the goal without claiming that search-engine placement is guaranteed.
+
+## Expanded concept: independent human verification
+
+A person may publish a page or document publicly but still have little practical knowledge of whether an unrelated person can find it. This project proposes a voluntary, privacy-respecting network of human testers who perform short searches using ordinary devices and networks, then report what they actually observed.
+
+A tester could:
+
+1. Receive a standardized search instruction.
+2. Use a normal browser, private/incognito window, or another device.
+3. Search one or more specified search engines using an exact query.
+4. Record whether the target appears, its approximate result position, and whether the link opens.
+5. Record context such as date, general region, device type, browser, and search engine, without collecting unnecessary personal information.
+6. Submit the result to a central database for comparison over time.
+
+This is similar in structure to a CAPTCHA or distributed human verification task, but the purpose is not to distinguish humans from bots. The purpose is to measure public discoverability and retrieval from outside the publisher's own account.
+
+The system should avoid treating testers as disposable labor. Participation should be voluntary, compensated when feasible, transparent about data collection, and designed to require only a few minutes. It should not encourage manipulation of rankings, artificial clicking, spam, or coordinated attempts to influence search results.
+
+## What the database could measure
+
+Possible fields include:
+
+- Test date and time.
+- Search engine used.
+- Exact search query.
+- General location or region, if voluntarily provided.
+- Device and browser category.
+- Whether the target appeared in the results.
+- Approximate result position or result-page number.
+- Whether the result title and description were understandable.
+- Whether the target page opened successfully.
+- Whether the page was blocked, redirected, broken, or inaccessible.
+- Whether the result appeared to be a stale copy or a current page.
+- Notes about major changes in the search results.
+
+The database could create a time series showing whether a public document remains discoverable, becomes harder to find, disappears from results, or becomes inaccessible. A single failed search would not prove that a page is absent from an index; it would be one observation within a larger monitoring system.
+
+## Important distinctions
+
+The project should distinguish among:
+
+- **Existence:** the page or file is published and can be opened through a direct link.
+- **Indexation:** a search engine has included the page in its searchable index.
+- **Discoverability:** a person can find the page using a relevant query.
+- **Retrievability:** the person can open and read the target after finding it.
+- **Persistence:** the page remains available over time.
+- **Prominence:** the page appears near the top of results. This is a changing measurement, not a permanent property.
+- **Independence:** the test was conducted by someone other than the publisher and outside the publisher's logged-in context.
+
+A page can exist and be retrievable by direct URL while remaining poorly indexed or difficult to discover through search.
+
+## Automation and technical support
+
+Automation could help with link checks, timestamping, duplicate detection, and assembling reports. Human testing may still be useful for search results that vary by context, personalized interfaces, anti-bot controls, and differences in how understandable or usable a result is.
+
+A responsible design would use automation for repetitive checks and humans for limited observations that require ordinary user context. It should not attempt to bypass access controls, defeat anti-bot protections, generate fake engagement, or overload search services.
 
 ## Steps to complete later
 
@@ -52,12 +115,17 @@ This describes the goal without claiming that search-engine placement is guarant
 6. Use consistent author wording: `Paul Statchen`.
 7. Use consistent geographic context only where relevant, such as `Santa Cruz County, California`.
 8. Keep factual distinctions visible: documented information, research questions, observations, speculative concepts, and proposals requiring verification.
-9. Later test discoverability through GitHub search and external search engines, recording the date, exact query, and result without assuming that one search result proves success.
-10. Revisit repository descriptions and topics manually in GitHub, since the current connection can update files but cannot change those repository settings.
+9. Establish baseline searches from the publisher's own device, then repeat them from an independent browser, device, and network such as a public library connection when appropriate.
+10. Record the date, exact query, search engine, approximate result position, direct-link success, and relevant test context.
+11. Repeat the same tests periodically to observe changes rather than treating one search as conclusive.
+12. Revisit repository descriptions and topics manually in GitHub, since the current connection can update files but cannot change those repository settings.
+13. Investigate whether a small voluntary human-testing pilot can be designed with consent, privacy protections, fair compensation, and anti-manipulation safeguards.
 
 ## Evidence and limits
 
 This is a preliminary discoverability experiment, not a guarantee of search ranking, identity verification, or creation of a formal knowledge-graph entity. The purpose is to create a coherent, publicly linked body of work that search systems and human readers can potentially understand.
+
+Search results are measurements of a particular time and context. They should be recorded as observations, not treated as permanent judgments about the value or legitimacy of the underlying work.
 
 ## Reference
 
