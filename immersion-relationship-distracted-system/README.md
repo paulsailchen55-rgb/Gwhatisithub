@@ -196,7 +196,71 @@ The Hebrew material is being placed beside that imagery because it raises a simi
 
 That question is the shared research subject.
 
-## 10. Proposed Principle
+## 10. What Is It? — Manna, Warning, Respect, and Dignity
+
+The name **What Is It?** can itself be understood as a question of encounter.
+
+Manna is described in Exodus as something the people encountered and questioned: **“What is it?”** The question comes before ordinary familiarity. Something is present, but its nature and proper relationship to it still require attention.
+
+For this repository, that becomes a useful metaphor:
+
+> **Before taking something for granted, ask what it is and how to approach it.**
+
+The repository's warnings are therefore not intended merely as rigid prohibitions. They are intended as **signals of attention**.
+
+Respect and dignity require an opportunity to notice the other person, the other living thing, the other culture, the other boundary, or the surrounding environment before acting.
+
+A warning can therefore be understood as:
+
+> **a living invitation to pay attention before contact, possession, judgment, or intervention.**
+
+This does not make every warning a static or immovable boundary. A living relationship changes. People move. Circumstances change. The appropriate distance can change. What matters is that the signal remains perceptible and that the other party remains recognizable as a participant with dignity.
+
+### The warning can move
+
+A warning can be embodied through movement, rhythm, gesture, or dance.
+
+In this interpretation, dance can function as a **relational warning language**: movement communicates presence, distance, invitation, caution, coordination, and response without necessarily requiring physical contact.
+
+The point is not to claim that every dance in every culture historically originated as a warning. Rather:
+
+> **Movement can communicate a boundary before physical contact occurs.**
+
+Once unwanted or uninvited physical contact occurs, the situation has changed. What was previously a warning or signal has become an actual interaction with another person's body.
+
+This distinction matters:
+
+**Warning → recognition → choice → relationship**
+
+is different from:
+
+**Warning ignored → unwanted contact → changed relationship**
+
+The purpose of the warning is therefore not simply to prevent relationship. It can make **respectful relationship possible**.
+
+### Manna and dignity
+
+The manna metaphor also provides a second question:
+
+> **Can something be received without treating it as an object to be possessed without regard for its meaning, limits, or source?**
+
+For this repository, dignity means that encountering something does not automatically authorize taking, touching, using, labeling, controlling, or consuming it.
+
+The appropriate first movement is attention.
+
+**What is it?**
+
+Then:
+
+**How do I approach it?**
+
+Then:
+
+**What does its presence require of me?**
+
+This is a proposed philosophical layer of the repository, not a claim about the complete historical meaning of manna or about the original meaning of every dance tradition.
+
+## 11. Proposed Principle
 
 ### Immersion Principle
 
@@ -206,31 +270,41 @@ That question is the shared research subject.
 
 **When attention becomes excessively concentrated on one person, group, objective, metric, or conflict, the system may lose awareness of other relationships and therefore fail to recognize consequences that remain outside the narrowed field of attention.**
 
+### Living-Warning Principle
+
+**A warning is not merely a wall. It is a signal that gives another participant an opportunity to perceive presence, dignity, distance, and choice before action changes the relationship.**
+
 ### Design implication
 
 **Good systems should make it easier—not harder—for people to perceive the wider relationships their decisions affect.**
 
-## 11. Evidence Classification
+## 12. Evidence Classification
 
 **KNOWN**
 - Genesis contains narrative explanations connecting Reuben with seeing, Simeon with hearing, and Levi with attachment/joining.
 - 1 Kings 12 and 2 Chronicles 10 describe Rehoboam consulting the elders and then the younger men, ultimately following the younger men's harsher advice.
 - Hawaiian mele can use flowers, fragrance, landscape, and place as vehicles for human feeling.
+- Exodus 16 presents manna as something the Israelites encountered and named/questioned with the expression commonly rendered “What is it?”; the precise linguistic and theological questions around the term require careful interpretation.
 
 **INTERPRETIVE**
 - Reading Reuben, Simeon, Levi, and Habakkuk as a progression of seeing, hearing, joining, and embracing.
 - Reading the Rehoboam episode as a general systems warning about narrowing one's field of counsel.
 - Reading Hawaiian floral love poetry and Hebrew relational poetry as resonant examples of environmental immersion.
+- Reading “What Is It?” as a repository metaphor for attention before possession or intervention.
+- Reading movement and dance as possible forms of embodied signaling or warning, without claiming this is the historical origin or universal function of dance.
 
 **PROPOSED**
 - Immersion in an environment should mean awareness of relationships rather than isolated observation.
 - Institutional distraction can reduce temporal, social, and ecological awareness.
 - Systems should seek integration of elder experience, younger perspectives, affected people, and environmental awareness.
+- Warnings can function as living signals that create space for recognition, dignity, and choice.
+- Respect is easier to practice when people can perceive warnings before contact or intervention occurs.
 
 **SPECULATIVE / REQUIRES RESEARCH**
 - Any claim that the Hebrew and Hawaiian poetic traditions share a historical lineage.
 - Any complete correspondence between the twelve tribes and the five senses.
 - Any claim that Habakkuk's name definitively derives from the Hebrew word for embrace.
+- Any claim that dance traditions generally or historically originated as warning systems.
 
 ## Status
 
@@ -243,3 +317,7 @@ That question is the shared research subject.
 **Core warning:**
 
 > **Do not become so distracted by one relationship that the rest of the living system disappears from view.**
+
+**Repository-level question:**
+
+> **What is it—and what warning does its presence give us before we touch, take, judge, control, or consume?**
